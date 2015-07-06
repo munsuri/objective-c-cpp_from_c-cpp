@@ -10,6 +10,7 @@ Bunch of examples to ilustrate the multiple ways of accessing Objective C/C++ fr
 
 - <a href="ObjectiveC-CppRuntime">ObjectiveC-CppRuntime</a> (<a href="https://developer.apple.com/library/mac/documentation/Cocoa/Reference/ObjCRuntimeRef/index.html">Reference</a>)
 	- <a href="ObjectiveC-CppRuntime/mainNSLog.c">mainNSLog.c</a>
+	- <a  href="https://github.com/Inferis/Objective-C-Runtime">More examples by Inferis</a>
 	
 The MIT License (MIT)
 
