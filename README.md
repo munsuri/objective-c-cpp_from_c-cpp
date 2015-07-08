@@ -14,7 +14,7 @@ Bunch of examples to ilustrate the multiple ways of accessing Objective C/C++ fr
   - <a href="MinimalisticMethodCall/MyObjectiveCInterface.hpp">MyObjectiveCInterface.hpp</a>
   - <a href="MinimalisticMethodCall/main.cpp">main.cpp</a>
 
-- <a href="ObjectiveC-CppRuntime">ObjectiveC-CppRuntime</a> (<a href="https://developer.apple.com/library/mac/documentation/Cocoa/Reference/ObjCRuntimeRef/index.html">Reference</a>)
+- <a href="ObjectiveC-CppRuntime">ObjectiveC-CppRuntime</a> (<a href="https://developer.apple.com/library/mac/documentation/Cocoa/Reference/ObjCRuntimeRef/index.html">Reference</a>) (<a href="http://stackoverflow.com/questions/17263354/why-shouldnt-you-use-objc-msgsend-in-objective-c">Note of caution</a>)
 	- <a href="ObjectiveC-CppRuntime/mainNSLog.c">mainNSLog.c</a>
 	- <a  href="https://github.com/Inferis/Objective-C-Runtime">More examples by Inferis</a>
 	
